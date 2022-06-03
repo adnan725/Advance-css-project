@@ -1,0 +1,22 @@
+{
+  "name": "advanced-css-course-master",
+  "version": "1.0.0",
+  "description": "landing page for project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass Natours/starter/sass/main.scss Natours/starter/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnan725/Advance-css-project.git"
+  },
+  "author": "Adnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnan725/Advance-css-project/issues"
+  },
+  "homepage": "https://github.com/adnan725/Advance-css-project#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
