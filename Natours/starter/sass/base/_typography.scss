@@ -42,3 +42,19 @@ body {
     }
   }
 }
+
+.tertiary-heading {
+  font-size:1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.paragraph {
+  font-size:1.2rem;
+  text-align: left;
+
+  &:not(:last-child) {
+    margin-bottom: 3rem;
+  }
+}
